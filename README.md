@@ -1,15 +1,15 @@
-# llm-bridge-homebrew
+# homebrew-llm-bridge
 
 The official Homebrew tap for **AI IDE Bridge** (`llm-bridge`).
 
-AI IDE Bridge is a local HTTP server that translates OpenAI-compatible API requests into provider-specific calls (Cursor SDK, GitHub Copilot, Windsurf), enabling any OpenAI-format client to use any AI IDE's model catalog.
+AI IDE Bridge is a local HTTP server that translates OpenAI-compatible API requests into provider-specific calls (Cursor SDK, GitHub Copilot, Windsurf), enabling any OpenAI-format client (such as OpenCode, Continue, or custom scripts) to use any AI IDE's model catalog.
 
 ## Installation
 
 To install `llm-bridge` via Homebrew on macOS (Apple Silicon or Intel), run:
 
 ```bash
-brew tap aeswibon/llm-bridge-homebrew
+brew tap aeswibon/llm-bridge
 brew install llm-bridge
 ```
 
