@@ -1,8 +1,8 @@
 class LlmBridge < Formula
   desc "Use any AI IDE's model catalog from any OpenAI-compatible client"
   homepage "https://github.com/aeswibon/llm-bridge"
-  url "https://github.com/aeswibon/llm-bridge/releases/download/v1.0.4/llm-bridge-macos-arm64"
-  sha256 "b75ea77e664411e94f528da9e0b87d3f5f8e9bd6c50ac71208f8fe0ecb1b8f9a"
+  url "https://github.com/aeswibon/llm-bridge/releases/download/v1.0.5/llm-bridge-macos-arm64"
+  sha256 "e2a0ce1d82ccea8682445192261af6e6579d2c7b16eb23029688daa3b902ef4f"
   license "MIT"
 
   def install
