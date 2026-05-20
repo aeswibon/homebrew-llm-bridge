@@ -3,6 +3,7 @@ class LlmBridge < Formula
   homepage "https://github.com/aeswibon/llm-bridge"
   url "https://github.com/aeswibon/llm-bridge/releases/download/v1.1.0/llm-bridge-macos-arm64"
   sha256 "f389006d7262e9b8104b0519306462a1748075802c0738ad2d6d8ca67385055b"
+  version "1.1.0"
   license "MIT"
 
   def install
